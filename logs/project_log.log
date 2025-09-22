@@ -1,0 +1,389 @@
+2025-09-21 20:45:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:17.261401', 'temperature': 72.8}
+2025-09-21 20:45:20 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:45:20 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:45:21 | INFO | START consumer.
+2025-09-21 20:45:21 | INFO | Kafka topic: smoker_csv
+2025-09-21 20:45:21 | INFO | Kafka consumer group id: smoker_group
+2025-09-21 20:45:21 | INFO | Rolling window size: 10
+2025-09-21 20:45:21 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-21 20:45:21 | INFO | Rolling window size: 10
+2025-09-21 20:45:21 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:45:21 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-21 20:45:21 | INFO | Kafka consumer created successfully.
+2025-09-21 20:45:21 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-21 20:45:21 | ERROR | Error while consuming messages: Invalid file descriptor: -1
+2025-09-21 20:45:21 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-21 20:45:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:22.262778', 'temperature': 73.2}
+2025-09-21 20:45:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:27.264472', 'temperature': 73.6}
+2025-09-21 20:45:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:32.274813', 'temperature': 74.0}
+2025-09-21 20:45:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:37.281738', 'temperature': 74.4}
+2025-09-21 20:45:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:42.283831', 'temperature': 74.8}
+2025-09-21 20:45:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:47.286818', 'temperature': 75.2}
+2025-09-21 20:45:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:52.290287', 'temperature': 75.6}
+2025-09-21 20:45:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:45:57.293576', 'temperature': 76.0}
+2025-09-21 20:46:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:02.295551', 'temperature': 76.4}
+2025-09-21 20:46:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:07.302020', 'temperature': 76.8}
+2025-09-21 20:46:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:12.304529', 'temperature': 77.2}
+2025-09-21 20:46:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:17.305879', 'temperature': 77.6}
+2025-09-21 20:46:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:22.307612', 'temperature': 78.0}
+2025-09-21 20:46:26 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:46:26 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:46:27 | INFO | START consumer.
+2025-09-21 20:46:27 | INFO | Kafka topic: smoker_csv
+2025-09-21 20:46:27 | INFO | Kafka consumer group id: smoker_group
+2025-09-21 20:46:27 | INFO | Rolling window size: 10
+2025-09-21 20:46:27 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-21 20:46:27 | INFO | Rolling window size: 10
+2025-09-21 20:46:27 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:46:27 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-21 20:46:27 | INFO | Kafka consumer created successfully.
+2025-09-21 20:46:27 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-21 20:46:27 | ERROR | Error while consuming messages: Invalid file descriptor: -1
+2025-09-21 20:46:27 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-21 20:46:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:27.309523', 'temperature': 78.4}
+2025-09-21 20:46:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:32.311406', 'temperature': 78.8}
+2025-09-21 20:46:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:37.317791', 'temperature': 79.2}
+2025-09-21 20:46:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:42.325161', 'temperature': 79.6}
+2025-09-21 20:46:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:47.327114', 'temperature': 80.0}
+2025-09-21 20:46:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:52.329296', 'temperature': 80.4}
+2025-09-21 20:46:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:46:57.330236', 'temperature': 80.8}
+2025-09-21 20:47:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:02.333157', 'temperature': 81.2}
+2025-09-21 20:47:06 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:47:06 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:47:06 | INFO | START consumer.
+2025-09-21 20:47:06 | INFO | Kafka topic: smoker_csv
+2025-09-21 20:47:06 | INFO | Kafka consumer group id: smoker_group
+2025-09-21 20:47:06 | INFO | Rolling window size: 10
+2025-09-21 20:47:06 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-21 20:47:06 | INFO | Rolling window size: 10
+2025-09-21 20:47:06 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:47:06 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-21 20:47:06 | INFO | Kafka consumer created successfully.
+2025-09-21 20:47:06 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-21 20:47:06 | ERROR | Error while consuming messages: Invalid file descriptor: -1
+2025-09-21 20:47:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:07.334330', 'temperature': 81.6}
+2025-09-21 20:47:09 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-21 20:47:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:12.336400', 'temperature': 82.0}
+2025-09-21 20:47:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:17.337871', 'temperature': 82.4}
+2025-09-21 20:47:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:22.341209', 'temperature': 82.8}
+2025-09-21 20:47:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:27.342978', 'temperature': 83.2}
+2025-09-21 20:47:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:32.344690', 'temperature': 83.6}
+2025-09-21 20:47:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:37.346993', 'temperature': 84.0}
+2025-09-21 20:47:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:42.348644', 'temperature': 84.4}
+2025-09-21 20:47:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:47.350513', 'temperature': 84.8}
+2025-09-21 20:47:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:52.352657', 'temperature': 85.2}
+2025-09-21 20:47:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:47:57.354508', 'temperature': 85.6}
+2025-09-21 20:48:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:02.356347', 'temperature': 86.0}
+2025-09-21 20:48:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:07.358057', 'temperature': 86.4}
+2025-09-21 20:48:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:12.365391', 'temperature': 86.8}
+2025-09-21 20:48:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:17.366712', 'temperature': 87.2}
+2025-09-21 20:48:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:22.368413', 'temperature': 87.6}
+2025-09-21 20:48:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:27.370170', 'temperature': 88.0}
+2025-09-21 20:48:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:32.371883', 'temperature': 88.4}
+2025-09-21 20:48:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:37.373900', 'temperature': 88.8}
+2025-09-21 20:48:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:42.376799', 'temperature': 89.2}
+2025-09-21 20:48:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:47.379290', 'temperature': 89.6}
+2025-09-21 20:48:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:52.381327', 'temperature': 90.0}
+2025-09-21 20:48:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:48:57.383315', 'temperature': 90.4}
+2025-09-21 20:49:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:02.385106', 'temperature': 90.8}
+2025-09-21 20:49:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:07.388561', 'temperature': 91.2}
+2025-09-21 20:49:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:12.389871', 'temperature': 91.6}
+2025-09-21 20:49:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:17.391486', 'temperature': 92.0}
+2025-09-21 20:49:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:22.393192', 'temperature': 92.4}
+2025-09-21 20:49:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:27.395160', 'temperature': 92.8}
+2025-09-21 20:49:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:32.396371', 'temperature': 93.2}
+2025-09-21 20:49:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:37.399633', 'temperature': 93.6}
+2025-09-21 20:49:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:42.401189', 'temperature': 94.0}
+2025-09-21 20:49:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:47.402579', 'temperature': 94.4}
+2025-09-21 20:49:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:52.410205', 'temperature': 94.8}
+2025-09-21 20:49:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:49:57.412186', 'temperature': 95.2}
+2025-09-21 20:50:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:02.413874', 'temperature': 95.6}
+2025-09-21 20:50:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:07.414985', 'temperature': 96.0}
+2025-09-21 20:50:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:12.417257', 'temperature': 96.4}
+2025-09-21 20:50:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:17.418687', 'temperature': 96.8}
+2025-09-21 20:50:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:22.420406', 'temperature': 97.2}
+2025-09-21 20:50:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:27.421672', 'temperature': 97.6}
+2025-09-21 20:50:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:32.423240', 'temperature': 98.0}
+2025-09-21 20:50:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:37.424702', 'temperature': 98.4}
+2025-09-21 20:50:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:42.426987', 'temperature': 98.8}
+2025-09-21 20:50:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:47.429708', 'temperature': 99.2}
+2025-09-21 20:50:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T01:50:52.430827', 'temperature': 99.6}
+2025-09-21 20:51:37 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:51:37 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:51:37 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz
+2025-09-21 20:51:37 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data
+2025-09-21 20:51:37 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/smoker_temps.csv
+2025-09-21 20:51:37 | INFO | START producer.
+2025-09-21 20:51:37 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:51:38 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-21 20:51:38 | INFO | Kafka topic: smoker_csv
+2025-09-21 20:51:38 | INFO | Message interval: 5 seconds
+2025-09-21 20:51:38 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:51:38 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-21 20:51:38 | INFO | Kafka producer successfully created.
+2025-09-21 20:51:38 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:51:38 | INFO | Topic 'smoker_csv' already exists. Recreating fresh...
+2025-09-21 20:52:08 | WARNING | Ignoring topic deletion issue for 'smoker_csv': [Error 7] RequestTimedOutError: Request timed out after 30000 ms
+2025-09-21 20:52:55 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:52:55 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:52:55 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz
+2025-09-21 20:52:55 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data
+2025-09-21 20:52:55 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/buzz_live.json
+2025-09-21 20:52:55 | INFO | START producer...
+2025-09-21 20:52:55 | INFO | Hit CTRL c (or CMD c) to close.
+2025-09-21 20:52:55 | INFO | Message interval: 3 seconds
+2025-09-21 20:52:55 | INFO | {'message': 'I just saw a meme! It was weird.', 'author': 'Bob'}
+2025-09-21 20:52:58 | INFO | {'message': 'I just shared a trick! It was weird.', 'author': 'Bob'}
+2025-09-21 20:53:01 | INFO | {'message': 'I just loved a story! It was amazing.', 'author': 'Bob'}
+2025-09-21 20:53:04 | INFO | {'message': 'I just saw a meme! It was weird.', 'author': 'Bob'}
+2025-09-21 20:53:05 | WARNING | Producer interrupted by user.
+2025-09-21 20:53:05 | INFO | Producer shutting down.
+2025-09-21 20:53:24 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:53:24 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:53:24 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz
+2025-09-21 20:53:24 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data
+2025-09-21 20:53:24 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/smoker_temps.csv
+2025-09-21 20:53:24 | INFO | START producer.
+2025-09-21 20:53:24 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:53:24 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-21 20:53:24 | INFO | Kafka topic: smoker_csv
+2025-09-21 20:53:24 | INFO | Message interval: 5 seconds
+2025-09-21 20:53:24 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:53:24 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-21 20:53:24 | INFO | Kafka producer successfully created.
+2025-09-21 20:53:24 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:53:24 | INFO | Topic 'smoker_csv' already exists. Recreating fresh...
+2025-09-21 20:53:54 | WARNING | Ignoring topic deletion issue for 'smoker_csv': [Error 7] RequestTimedOutError: Request timed out after 30000 ms
+2025-09-21 20:54:25 | ERROR | Error managing topic 'smoker_csv': [Error 7] RequestTimedOutError: Request timed out after 30000 ms
+2025-09-21 20:55:57 | INFO | Logging to file: logs/project_log.log
+2025-09-21 20:55:57 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 20:55:57 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz
+2025-09-21 20:55:57 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data
+2025-09-21 20:55:57 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/smoker_temps.csv
+2025-09-21 20:55:57 | INFO | START producer.
+2025-09-21 20:55:57 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:55:57 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-21 20:55:57 | INFO | Kafka topic: smoker_csv
+2025-09-21 20:55:57 | INFO | Message interval: 5 seconds
+2025-09-21 20:55:57 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:55:57 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-21 20:55:58 | INFO | Kafka producer successfully created.
+2025-09-21 20:55:58 | INFO | Kafka broker address: localhost:9092
+2025-09-21 20:55:58 | INFO | Topic 'smoker_csv' already exists. Recreating fresh...
+2025-09-21 20:56:28 | WARNING | Ignoring topic deletion issue for 'smoker_csv': [Error 7] RequestTimedOutError: Request timed out after 30000 ms
+2025-09-21 21:00:56 | INFO | Logging to file: logs/project_log.log
+2025-09-21 21:00:56 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 21:00:56 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz
+2025-09-21 21:00:56 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data
+2025-09-21 21:00:56 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/smoker_temps.csv
+2025-09-21 21:00:56 | INFO | START producer.
+2025-09-21 21:00:56 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:00:56 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-21 21:00:56 | INFO | Kafka topic: smoker_csv
+2025-09-21 21:00:56 | INFO | Message interval: 5 seconds
+2025-09-21 21:00:56 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:00:56 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-21 21:00:56 | INFO | Kafka producer successfully created.
+2025-09-21 21:00:56 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:00:57 | INFO | Topic 'smoker_csv' already exists. Recreating fresh...
+2025-09-21 21:00:57 | INFO | Requested deletion of topic 'smoker_csv'.
+2025-09-21 21:00:57 | INFO | Topic 'smoker_csv' created successfully.
+2025-09-21 21:00:57 | INFO | Kafka topic 'smoker_csv' is ready.
+2025-09-21 21:00:57 | INFO | Starting message production to topic 'smoker_csv'...
+2025-09-21 21:00:57 | INFO | Opening data file in read mode: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/smoker_temps.csv
+2025-09-21 21:00:57 | INFO | Reading data from file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/smoker_temps.csv
+2025-09-21 21:00:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:00:57.187608', 'temperature': 70.4}
+2025-09-21 21:01:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:02.189495', 'temperature': 70.8}
+2025-09-21 21:01:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:07.191888', 'temperature': 71.2}
+2025-09-21 21:01:12 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:12.193321', 'temperature': 71.6}
+2025-09-21 21:01:17 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:17.204481', 'temperature': 72.0}
+2025-09-21 21:01:20 | INFO | Logging to file: logs/project_log.log
+2025-09-21 21:01:20 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 21:01:20 | INFO | START consumer.
+2025-09-21 21:01:20 | INFO | Kafka topic: smoker_csv
+2025-09-21 21:01:20 | INFO | Kafka consumer group id: smoker_group
+2025-09-21 21:01:20 | INFO | Rolling window size: 10
+2025-09-21 21:01:20 | INFO | Consumer: Topic 'smoker_csv' and group 'smoker_group'...
+2025-09-21 21:01:20 | INFO | Rolling window size: 10
+2025-09-21 21:01:20 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:01:20 | INFO | Creating Kafka consumer. Topic='smoker_csv' and group ID='smoker_group'.
+2025-09-21 21:01:20 | INFO | Kafka consumer created successfully.
+2025-09-21 21:01:20 | INFO | Polling messages from topic 'smoker_csv'...
+2025-09-21 21:01:22 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:22.206268', 'temperature': 72.4}
+2025-09-21 21:01:24 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:00:57.187608', 'temperature': 70.4}
+2025-09-21 21:01:24 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:02.189495', 'temperature': 70.8}
+2025-09-21 21:01:24 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:07.191888', 'temperature': 71.2}
+2025-09-21 21:01:24 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:12.193321', 'temperature': 71.6}
+2025-09-21 21:01:24 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:17.204481', 'temperature': 72.0}
+2025-09-21 21:01:24 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:22.206268', 'temperature': 72.4}
+2025-09-21 21:01:27 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:27.207391', 'temperature': 72.8}
+2025-09-21 21:01:27 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:27.207391', 'temperature': 72.8}
+2025-09-21 21:01:32 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:32.209350', 'temperature': 73.2}
+2025-09-21 21:01:32 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:32.209350', 'temperature': 73.2}
+2025-09-21 21:01:37 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:37.210960', 'temperature': 73.6}
+2025-09-21 21:01:37 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:37.210960', 'temperature': 73.6}
+2025-09-21 21:01:42 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:42.213459', 'temperature': 74.0}
+2025-09-21 21:01:42 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:42.213459', 'temperature': 74.0}
+2025-09-21 21:01:47 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:47.219581', 'temperature': 74.4}
+2025-09-21 21:01:47 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:47.219581', 'temperature': 74.4}
+2025-09-21 21:01:52 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:52.227475', 'temperature': 74.8}
+2025-09-21 21:01:52 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:52.227475', 'temperature': 74.8}
+2025-09-21 21:01:57 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:01:57.229268', 'temperature': 75.2}
+2025-09-21 21:01:57 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:01:57.229268', 'temperature': 75.2}
+2025-09-21 21:02:02 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:02:02.231268', 'temperature': 75.6}
+2025-09-21 21:02:02 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:02:02.231268', 'temperature': 75.6}
+2025-09-21 21:02:07 | INFO | Sent message to topic 'smoker_csv': {'timestamp': '2025-09-22T02:02:07.233876', 'temperature': 76.0}
+2025-09-21 21:02:07 | INFO | Processed JSON message: {'timestamp': '2025-09-22T02:02:07.233876', 'temperature': 76.0}
+2025-09-21 21:02:08 | WARNING | Consumer interrupted by user.
+2025-09-21 21:02:08 | INFO | Kafka consumer for topic 'smoker_csv' closed.
+2025-09-21 21:02:09 | WARNING | Producer interrupted by user.
+2025-09-21 21:02:09 | INFO | Kafka producer closed.
+2025-09-21 21:02:09 | INFO | END producer.
+2025-09-21 21:03:40 | INFO | Logging to file: logs/project_log.log
+2025-09-21 21:03:40 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 21:03:40 | INFO | Project root: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz
+2025-09-21 21:03:40 | INFO | Data folder: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data
+2025-09-21 21:03:40 | INFO | Data file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/buzz.json
+2025-09-21 21:03:40 | INFO | START producer.
+2025-09-21 21:03:40 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:03:40 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 1, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'vFqzhTEhQa6aR7me4AZZ3g', 'controller_id': 1}
+2025-09-21 21:03:40 | INFO | Kafka topic: buzzline_json
+2025-09-21 21:03:40 | INFO | Message interval: 3 seconds
+2025-09-21 21:03:40 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:03:40 | INFO | Connecting to Kafka broker at localhost:9092...
+2025-09-21 21:03:40 | INFO | Kafka producer successfully created.
+2025-09-21 21:03:40 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:03:40 | INFO | Topic 'buzzline_json' already exists. Recreating fresh...
+2025-09-21 21:03:40 | INFO | Requested deletion of topic 'buzzline_json'.
+2025-09-21 21:03:41 | INFO | Topic 'buzzline_json' created successfully.
+2025-09-21 21:03:41 | INFO | Kafka topic 'buzzline_json' is ready.
+2025-09-21 21:03:41 | INFO | Starting message production to topic 'buzzline_json'...
+2025-09-21 21:03:41 | INFO | Opening data file in read mode: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/buzz.json
+2025-09-21 21:03:41 | INFO | Reading data from file: C:/Users/USER/Documents/44671 Streaming Data/buzzline-04-mcruz/data/buzz.json
+2025-09-21 21:03:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Eve'}
+2025-09-21 21:03:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-21 21:03:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-21 21:03:50 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-21 21:03:53 | INFO | Sent message to topic 'buzzline_json': {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-21 21:03:56 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-21 21:03:58 | INFO | Logging to file: logs/project_log.log
+2025-09-21 21:03:58 | INFO | Log sanitization enabled, personal info removed
+2025-09-21 21:03:58 | INFO | START consumer.
+2025-09-21 21:03:58 | INFO | Kafka topic: buzzline_json
+2025-09-21 21:03:58 | INFO | Kafka consumer group id: buzz_group
+2025-09-21 21:03:58 | INFO | Consumer: Topic 'buzzline_json' and group 'buzz_group'...
+2025-09-21 21:03:58 | INFO | Kafka broker address: localhost:9092
+2025-09-21 21:03:58 | INFO | Creating Kafka consumer. Topic='buzzline_json' and group ID='buzz_group'.
+2025-09-21 21:03:58 | INFO | Kafka consumer created successfully.
+2025-09-21 21:03:58 | INFO | Polling messages from topic 'buzzline_json'...
+2025-09-21 21:03:59 | INFO | Sent message to topic 'buzzline_json': {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-21 21:04:01 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Alice'}
+2025-09-21 21:04:01 | INFO | Message received from author: Alice
+2025-09-21 21:04:01 | INFO | Updated author counts: {'Alice': 1}
+2025-09-21 21:04:01 | INFO | Chart updated successfully for message: {"message": "Distributed systems are fascinating.", "author": "Alice"}
+2025-09-21 21:04:01 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Charlie'}
+2025-09-21 21:04:01 | INFO | Message received from author: Charlie
+2025-09-21 21:04:01 | INFO | Updated author counts: {'Alice': 1, 'Charlie': 1}
+2025-09-21 21:04:01 | INFO | Chart updated successfully for message: {"message": "Have a great day!", "author": "Charlie"}
+2025-09-21 21:04:01 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Alice'}
+2025-09-21 21:04:01 | INFO | Message received from author: Alice
+2025-09-21 21:04:01 | INFO | Updated author counts: {'Alice': 2, 'Charlie': 1}
+2025-09-21 21:04:02 | INFO | Chart updated successfully for message: {"message": "Data engineering is my passion.", "author": "Alice"}
+2025-09-21 21:04:02 | INFO | Processed JSON message: {'message': 'Distributed systems are fascinating.', 'author': 'Diana'}
+2025-09-21 21:04:02 | INFO | Message received from author: Diana
+2025-09-21 21:04:02 | INFO | Updated author counts: {'Alice': 2, 'Charlie': 1, 'Diana': 1}
+2025-09-21 21:04:02 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-21 21:04:02 | INFO | Chart updated successfully for message: {"message": "Distributed systems are fascinating.", "author": "Diana"}
+2025-09-21 21:04:02 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-21 21:04:02 | INFO | Message received from author: Alice
+2025-09-21 21:04:02 | INFO | Updated author counts: {'Alice': 3, 'Charlie': 1, 'Diana': 1}
+2025-09-21 21:04:02 | INFO | Chart updated successfully for message: {"message": "Buzz messages for everyone.", "author": "Alice"}
+2025-09-21 21:04:02 | INFO | Processed JSON message: {'message': 'Hello, Kafka world!', 'author': 'Diana'}
+2025-09-21 21:04:02 | INFO | Message received from author: Diana
+2025-09-21 21:04:02 | INFO | Updated author counts: {'Alice': 3, 'Charlie': 1, 'Diana': 2}
+2025-09-21 21:04:02 | INFO | Chart updated successfully for message: {"message": "Hello, Kafka world!", "author": "Diana"}
+2025-09-21 21:04:02 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-21 21:04:02 | INFO | Message received from author: Eve
+2025-09-21 21:04:02 | INFO | Updated author counts: {'Alice': 3, 'Charlie': 1, 'Diana': 2, 'Eve': 1}
+2025-09-21 21:04:02 | INFO | Chart updated successfully for message: {"message": "This is a buzz message.", "author": "Eve"}
+2025-09-21 21:04:05 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-21 21:04:05 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Eve'}
+2025-09-21 21:04:05 | INFO | Message received from author: Eve
+2025-09-21 21:04:05 | INFO | Updated author counts: {'Alice': 3, 'Charlie': 1, 'Diana': 2, 'Eve': 2}
+2025-09-21 21:04:05 | INFO | Chart updated successfully for message: {"message": "JSON makes life easier.", "author": "Eve"}
+2025-09-21 21:04:08 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-21 21:04:08 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Alice'}
+2025-09-21 21:04:08 | INFO | Message received from author: Alice
+2025-09-21 21:04:08 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 1, 'Diana': 2, 'Eve': 2}
+2025-09-21 21:04:08 | INFO | Chart updated successfully for message: {"message": "JSON makes life easier.", "author": "Alice"}
+2025-09-21 21:04:11 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-21 21:04:11 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-21 21:04:11 | INFO | Message received from author: Diana
+2025-09-21 21:04:11 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 1, 'Diana': 3, 'Eve': 2}
+2025-09-21 21:04:11 | INFO | Chart updated successfully for message: {"message": "Data engineering is my passion.", "author": "Diana"}
+2025-09-21 21:04:14 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Diana'}
+2025-09-21 21:04:14 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Diana'}
+2025-09-21 21:04:14 | INFO | Message received from author: Diana
+2025-09-21 21:04:14 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 1, 'Diana': 4, 'Eve': 2}
+2025-09-21 21:04:14 | INFO | Chart updated successfully for message: {"message": "JSON makes life easier.", "author": "Diana"}
+2025-09-21 21:04:17 | INFO | Sent message to topic 'buzzline_json': {'message': 'Kafka is awesome.', 'author': 'Charlie'}
+2025-09-21 21:04:17 | INFO | Processed JSON message: {'message': 'Kafka is awesome.', 'author': 'Charlie'}
+2025-09-21 21:04:17 | INFO | Message received from author: Charlie
+2025-09-21 21:04:17 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 2, 'Diana': 4, 'Eve': 2}
+2025-09-21 21:04:17 | INFO | Chart updated successfully for message: {"message": "Kafka is awesome.", "author": "Charlie"}
+2025-09-21 21:04:20 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-21 21:04:20 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Bob'}
+2025-09-21 21:04:20 | INFO | Message received from author: Bob
+2025-09-21 21:04:20 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 2, 'Diana': 4, 'Eve': 2, 'Bob': 1}
+2025-09-21 21:04:20 | INFO | Chart updated successfully for message: {"message": "JSON makes life easier.", "author": "Bob"}
+2025-09-21 21:04:23 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-21 21:04:23 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Bob'}
+2025-09-21 21:04:23 | INFO | Message received from author: Bob
+2025-09-21 21:04:23 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 2, 'Diana': 4, 'Eve': 2, 'Bob': 2}
+2025-09-21 21:04:23 | INFO | Chart updated successfully for message: {"message": "I love Python!", "author": "Bob"}
+2025-09-21 21:04:26 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-21 21:04:26 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Eve'}
+2025-09-21 21:04:26 | INFO | Message received from author: Eve
+2025-09-21 21:04:26 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 2, 'Diana': 4, 'Eve': 3, 'Bob': 2}
+2025-09-21 21:04:26 | INFO | Chart updated successfully for message: {"message": "This is a buzz message.", "author": "Eve"}
+2025-09-21 21:04:29 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-21 21:04:29 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-21 21:04:29 | INFO | Message received from author: Eve
+2025-09-21 21:04:29 | INFO | Updated author counts: {'Alice': 4, 'Charlie': 2, 'Diana': 4, 'Eve': 4, 'Bob': 2}
+2025-09-21 21:04:29 | INFO | Chart updated successfully for message: {"message": "I love Python!", "author": "Eve"}
+2025-09-21 21:04:32 | INFO | Sent message to topic 'buzzline_json': {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-21 21:04:32 | INFO | Processed JSON message: {'message': 'Buzz messages for everyone.', 'author': 'Alice'}
+2025-09-21 21:04:32 | INFO | Message received from author: Alice
+2025-09-21 21:04:32 | INFO | Updated author counts: {'Alice': 5, 'Charlie': 2, 'Diana': 4, 'Eve': 4, 'Bob': 2}
+2025-09-21 21:04:32 | INFO | Chart updated successfully for message: {"message": "Buzz messages for everyone.", "author": "Alice"}
+2025-09-21 21:04:35 | INFO | Sent message to topic 'buzzline_json': {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-21 21:04:35 | INFO | Processed JSON message: {'message': 'This is a buzz message.', 'author': 'Alice'}
+2025-09-21 21:04:35 | INFO | Message received from author: Alice
+2025-09-21 21:04:35 | INFO | Updated author counts: {'Alice': 6, 'Charlie': 2, 'Diana': 4, 'Eve': 4, 'Bob': 2}
+2025-09-21 21:04:35 | INFO | Chart updated successfully for message: {"message": "This is a buzz message.", "author": "Alice"}
+2025-09-21 21:04:38 | INFO | Sent message to topic 'buzzline_json': {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-21 21:04:38 | INFO | Processed JSON message: {'message': 'Data engineering is my passion.', 'author': 'Diana'}
+2025-09-21 21:04:38 | INFO | Message received from author: Diana
+2025-09-21 21:04:38 | INFO | Updated author counts: {'Alice': 6, 'Charlie': 2, 'Diana': 5, 'Eve': 4, 'Bob': 2}
+2025-09-21 21:04:38 | INFO | Chart updated successfully for message: {"message": "Data engineering is my passion.", "author": "Diana"}
+2025-09-21 21:04:41 | INFO | Sent message to topic 'buzzline_json': {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-21 21:04:41 | INFO | Processed JSON message: {'message': 'I love Python!', 'author': 'Eve'}
+2025-09-21 21:04:41 | INFO | Message received from author: Eve
+2025-09-21 21:04:41 | INFO | Updated author counts: {'Alice': 6, 'Charlie': 2, 'Diana': 5, 'Eve': 5, 'Bob': 2}
+2025-09-21 21:04:41 | INFO | Chart updated successfully for message: {"message": "I love Python!", "author": "Eve"}
+2025-09-21 21:04:44 | INFO | Sent message to topic 'buzzline_json': {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-21 21:04:44 | INFO | Processed JSON message: {'message': 'JSON makes life easier.', 'author': 'Charlie'}
+2025-09-21 21:04:44 | INFO | Message received from author: Charlie
+2025-09-21 21:04:44 | INFO | Updated author counts: {'Alice': 6, 'Charlie': 3, 'Diana': 5, 'Eve': 5, 'Bob': 2}
+2025-09-21 21:04:44 | INFO | Chart updated successfully for message: {"message": "JSON makes life easier.", "author": "Charlie"}
+2025-09-21 21:04:47 | INFO | Sent message to topic 'buzzline_json': {'message': 'Have a great day!', 'author': 'Bob'}
+2025-09-21 21:04:47 | INFO | Processed JSON message: {'message': 'Have a great day!', 'author': 'Bob'}
+2025-09-21 21:04:47 | INFO | Message received from author: Bob
+2025-09-21 21:04:47 | INFO | Updated author counts: {'Alice': 6, 'Charlie': 3, 'Diana': 5, 'Eve': 5, 'Bob': 3}
+2025-09-21 21:04:47 | INFO | Chart updated successfully for message: {"message": "Have a great day!", "author": "Bob"}
+2025-09-21 21:04:48 | WARNING | Producer interrupted by user.
+2025-09-21 21:04:48 | INFO | Kafka producer closed.
+2025-09-21 21:04:48 | INFO | END producer.
+2025-09-21 21:04:50 | WARNING | Consumer interrupted by user.
+2025-09-21 21:04:50 | INFO | Kafka consumer for topic 'buzzline_json' closed.
+2025-09-21 21:04:50 | INFO | END consumer for topic 'buzzline_json' and group 'buzz_group'.
