@@ -12,8 +12,11 @@ It generates three applications:
 1. A basic producer and consumer that exchange information via a dynamically updated file.
 2. A JSON producer and consumer that exchange information via a Kafka topic.
 3. A CSV producer and consumer that exchange information via a different Kafka topic.
+4. The Project producer and consumer will provide real time keyword insights per author, this will be visualized with a bar chart. 
 
-All three applications produce live charts to illustrate the data.
+
+
+All four applications produce live charts to illustrate the data.
 
 ## First, Use Tools from Module 1 and 2
 
